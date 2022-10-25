@@ -26,7 +26,7 @@ Technologies used:
 
     After starting the server, go to deployed website.
 
-<a href='https://sleepy-mountain-95539.herokuapp.com/'  target="_blank"> Click here for heroku deployment </a>
+You can check out the deployed application [here](https://bubbledungeonz.herokuapp.com/).
 
 ![A screenshot of the app showing an active game, high scoreboard, and chat window.](./screen.PNG)
 
