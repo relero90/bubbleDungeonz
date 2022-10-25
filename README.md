@@ -2,9 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Arcade website where you can create an account pick games to play, make friends, send messages and chat. Keeps track of score that players scored in the games they play. Customized avatar and settings.
+A MERN-stack game-hosting website complete with user authentication, dynamically-generating chat channels, and High Score boards for each game.
 
-Technologies used:
+## Technologies used:
 
 1. MongoDB, Mongoose, GraphQL with Apollo server
 2. Express server
@@ -28,7 +28,7 @@ Technologies used:
 
 You can check out the deployed application [here](https://bubbledungeonz.herokuapp.com/).
 
-![A screenshot of the app showing an active game, high scoreboard, and chat window.](./screen.PNG)
+![A screenshot of the app showing an active game, high scoreboard, and chat window.](./screen.png)
 
 ## Installation
 
