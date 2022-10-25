@@ -1,13 +1,13 @@
 {
-  "name": "projecthree",
+  "name": "bubbleDungeonz",
   "version": "1.0.0",
-  "description": "",
+  "description": "A MERN-stack game-hosting infrastructure complete with user authentication, dynamically-generating chat channels, and High Score boards for each game.",
   "main": "index.js",
   "scripts": {
     "start:dev": "concurrently \"cd client && npm run build\" \"cd server && npm run server\" ",
     "start": "npm run build && cd server && node server.js",
     "server": "cd server server.js --ignore client",
-    "build": "cd client && npm run build --max_old_space_size=8192 node_modules/.bin/react-scripts build:static",
+    "build": "cd client && npm run build --max_old_space_size=8192 node_modules/.bin/react-scripts build",
     "install": "cd server && npm i && cd ../client && npm i",
     "client": "cd client && npm start",
     "develop": "concurrently \"cd server && npm run develop\" \"cd client && npm start\"",
@@ -17,14 +17,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/l1keafox/projectThree.git"
+    "url": "git+https://github.com/relero90/bubbleDungeonz.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/l1keafox/projectThree/issues"
+    "url": "https://github.com/relero90/bubbleDungeonz/issues"
   },
-  "homepage": "https://github.com/l1keafox/projectThree#readme",
+  "homepage": "https://github.com/relero90/bubbleDungeonz#readme",
   "dependencies": {
     "apollo-server-express": "^3.10.3",
     "concurrently": "^7.4.0",
