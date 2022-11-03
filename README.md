@@ -28,7 +28,7 @@ A MERN-stack game-hosting website complete with user authentication, dynamically
 
 You can check out the deployed application [here](https://bubbledungeonz.herokuapp.com/).
 
-![A screenshot of the app showing an active game, high scoreboard, and chat window.](./screen.png)
+![A screenshot of the app showing an active game, high scoreboard, and chat window.](./screen.PNG)
 
 ## Installation
 
